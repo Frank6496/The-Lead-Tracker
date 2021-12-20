@@ -1,9 +1,9 @@
 ## THE CHROME EXTENSION ( THE LEAD TRACKER )
 
 **The following are the built-in javascript methods and functions used**
-- .addEventListener()
-- .push()
-- .value()
+- addEventListener()
+- push()
+- value()
 - localStorage.setItem()
 - JSON.stringify()
 - render()
